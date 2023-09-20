@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Main\main.cpp" />
+    <ClCompile Include="Basis\Console\Console.cpp" />
+    <ClCompile Include="Game\GameArea\GameArea.cpp" />
+    <ClCompile Include="Game\Shape\Shape.cpp" />
+    <ClCompile Include="Interaction\Rendering\Render.cpp" />
+    <ClCompile Include="Interaction\Control\Control.cpp" />
+    <ClCompile Include="Interaction\Interface\Interface.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Basis\Console\Console.h" />
+    <ClInclude Include="Game\GameArea\GameArea.h" />
+    <ClInclude Include="Game\Shape\Shape.h" />
+    <ClInclude Include="Basis\Enums\Enums.h" />
+    <ClInclude Include="Interaction\Rendering\Render.h" />
+    <ClInclude Include="Interaction\Control\Control.h" />
+    <ClInclude Include="Interaction\Interface\Interface.h" />
+  </ItemGroup>
+</Project>

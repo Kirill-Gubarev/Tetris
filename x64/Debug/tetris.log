@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\KirillMG\OneDrive\Рабочий стол\Проекты\tetris\Interaction\Rendering\Render.h(19,2): warning C4091: static : пропускается слева от "Render", когда ни одна переменная не объявлена
+C:\Users\KirillMG\OneDrive\Рабочий стол\Проекты\tetris\Interaction\Interface\Interface.h(22,2): warning C4091: static : пропускается слева от "Interface", когда ни одна переменная не объявлена
+  tetris.vcxproj -> C:\Users\KirillMG\OneDrive\Рабочий стол\Проекты\tetris\x64\Debug\tetris.exe
